@@ -128,8 +128,6 @@ that completely changes the training prescription.
 - `prompts/weekly-review-checklist.md` — (coming soon)
 ```
 
----
 
-## Commit message（直接用这条）
-```
-Add prompt: diagnostic error pattern analysis for Cambridge PET prep
+
+
