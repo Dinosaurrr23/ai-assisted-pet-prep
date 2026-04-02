@@ -46,7 +46,8 @@ README.md          # This file
 ### Current Status
 
 - **Start date**: April 2026
-- **Current phase**: System setup — Notion database established, first prompt templates under testing
+- **Current phase**: System setup — Notion database established, first prompt template published
+- **Latest update**: `prompts/diagnostic-error-pattern-analysis.md` — cold test post-analysis prompt for identifying strategy collapse vs ability gap
 - **Update cadence**: New reflection every two weeks
 
 ---
@@ -112,7 +113,8 @@ README.md          # 你现在看到的这个文件
 ### 当前状态
 
 - **启动时间**：2026年4月
-- **当前阶段**：体系搭建期，Notion 数据库已建立，首批 Prompt 模板测试中
+- **当前阶段**：体系搭建期，Notion 数据库已建立，第一个 Prompt 模板已发布
+- **最新更新**：`prompts/diagnostic-error-pattern-analysis.md` — 冷测后诊断 Prompt，用于区分「策略崩塌」与「能力缺口」
 - **更新节奏**：每两周发布一篇阶段复盘
 
 ---
